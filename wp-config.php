@@ -26,7 +26,7 @@ define( 'DB_NAME', 'msp' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'N0MuD1k-2021!' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -92,8 +92,8 @@ if (ob_get_length()) {
 
 
 define( 'WP_MEMORY_LIMIT', '512M' );
-define('WP_HOME', 'http://localhost/wordpress');
-define('WP_SITEURL', 'http://localhost/wordpress');
+define('WP_HOME', 'http://103.101.225.146/wordpress');
+define('WP_SITEURL', 'http://103.101.225.146/wordpress');
 define( 'SAVEQUERIES', true );
 
 

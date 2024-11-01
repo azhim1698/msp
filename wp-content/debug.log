@@ -242,3 +242,211 @@
 [30-Oct-2024 07:47:21 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpress\wp-includes\functions.php on line 5427
 [30-Oct-2024 07:47:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpress\wp-includes\functions.php on line 5427
 [30-Oct-2024 07:47:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpress\wp-includes\functions.php on line 5427
+[30-Oct-2024 08:58:41 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:02:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:03:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:04:08 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:05:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:05:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:05:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:05:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:05:44 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:09:46 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:09:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:09:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:09:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:09:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:09:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:10:16 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:10:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/wordpress/wp-includes/class-wpdb.php on line 1982
+[30-Oct-2024 09:42:44 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[30-Oct-2024 09:58:40 UTC] PHP Notice:  Undefined index: editor_post_id in /var/www/html/wordpress/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[31-Oct-2024 01:36:55 UTC] Automatic updates starting...
+[31-Oct-2024 01:36:56 UTC]   Automatic plugin updates starting...
+[31-Oct-2024 01:36:56 UTC]   Automatic plugin updates complete.
+[31-Oct-2024 01:36:57 UTC] Automatic updates complete.
+[31-Oct-2024 02:53:26 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:01:40 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:12:35 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:20:07 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:20:20 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:20:24 UTC] PHP Warning:  wp_update_plugins(): Terjadi galat tak terduga. Mungkin ada yang salah dengan WordPress.org atau konfigurasi server ini. Jika masalah berlanjut, silakan coba <a href="https://wordpress.org/support/forums/">forum dukungan</a>. (WordPress tidak bisa membuat sambungan aman ke WordPress.org. Silakan hubungi administrator server Anda.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:21:38 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:28:20 UTC] Automatic updates starting...
+[31-Oct-2024 03:28:21 UTC]   Automatic plugin updates starting...
+[31-Oct-2024 03:28:21 UTC]   Automatic plugin updates complete.
+[31-Oct-2024 03:28:21 UTC] Automatic updates complete.
+[31-Oct-2024 03:34:53 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 03:37:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:37:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:37:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:37:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:37:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:37:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:48:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:48:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:48:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:48:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:48:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:48:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 178
+[31-Oct-2024 03:49:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:49:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:49:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:49:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:49:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:49:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:49:54 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 03:50:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:50:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-mainset.php on line 132
+[31-Oct-2024 03:51:27 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 04:17:01 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 04:17:10 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 07:07:25 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 08:50:41 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 08:50:43 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 08:51:30 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 08:55:52 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 09:05:54 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 09:13:39 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 09:14:42 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 09:24:12 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 09:24:14 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 10:07:42 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 14:33:41 UTC] AWP Login Notification: No phone number found for user msp
+[31-Oct-2024 14:34:16 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 14:37:03 UTC] AWP Login Notification: No phone number found for user msp
+[31-Oct-2024 14:43:51 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 14:48:29 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 14:56:16 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 14:58:38 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:02:50 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:02:57 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:03:14 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:03:51 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:04:05 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:04:10 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:04:17 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:04:53 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:05:06 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:16:42 UTC] PHP Notice:  Fungsi Elementor\Controls_Manager::add_control_to_stack ditulis secara <strong>tidak benar</strong>. Cannot redeclare control with same name "button_border_width". Silakan lihat <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging di WordPress</a> untuk informasi lebih lanjut. (Pesan ini ditambahkan pada versi 1.0.0.) in /var/www/html/wordpress/wp-includes/functions.php on line 6085
+[31-Oct-2024 15:19:55 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:20:01 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:20:16 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:20:28 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:23:01 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:23:03 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:23:11 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:28:34 UTC] Automatic updates starting...
+[31-Oct-2024 15:28:35 UTC]   Automatic plugin updates starting...
+[31-Oct-2024 15:28:35 UTC]   Automatic plugin updates complete.
+[31-Oct-2024 15:28:36 UTC] Automatic updates complete.
+[31-Oct-2024 15:30:01 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:37:51 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:38:07 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:38:34 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:38:43 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:39:48 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:39:55 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:45:32 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:47:42 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:50:15 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:50:26 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:50:42 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:50:54 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:51:29 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:51:30 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 15:52:22 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:04:41 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:05:39 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:06:12 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:06:57 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:07:53 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:08:40 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:10:46 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:23:57 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:24:06 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:32:42 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:32:49 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:33:08 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:37:39 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:38:13 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:38:18 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:38:22 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:38:39 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:42:12 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 16:58:22 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:12:34 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:13:12 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:13:19 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:13:46 UTC] AWP Login Notification: No phone number found for user msp
+[31-Oct-2024 17:13:49 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:14:32 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:15:08 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:15:10 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:15:45 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:15:48 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:16:02 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:16:31 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:18:35 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:18:45 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[31-Oct-2024 17:19:01 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 01:31:14 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 01:48:57 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 01:54:29 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:03:57 UTC] AWP Login Notification: No phone number found for user msp
+[01-Nov-2024 02:04:12 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:04:40 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:27:04 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:27:23 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:27:35 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:29:16 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:30:38 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:52:35 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:55:10 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 02:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_edit_mode() on null in /var/www/html/wordpress/wp-content/plugins/ht-mega-for-elementor/includes/helper-function.php:18
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/ht-mega-for-elementor/includes/class.assests.php(589): htmega_is_editing_mode()
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(324): HTMega_Elementor_Addons_Assests->enqueue_scripts()
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wordpress/wp-includes/script-loader.php(2263): do_action()
+#5 /var/www/html/wordpress/wp-includes/class-wp-customize-manager.php(462): wp_enqueue_scripts()
+#6 /var/www/html/wordpress/wp-includes/class-wp-customize-manager.php(561): WP_Customize_Manager->wp_die()
+#7 /var/www/html/wordpress/wp-includes/class-wp-hook.php(324): WP_Customize_Manager->setup_theme()
+#8 /var/www/html/wordpress/wp-includes/class-wp-hook.php(348): in /var/www/html/wordpress/wp-content/plugins/ht-mega-for-elementor/includes/helper-function.php on line 18
+[01-Nov-2024 02:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_edit_mode() on null in /var/www/html/wordpress/wp-content/plugins/ht-mega-for-elementor/includes/helper-function.php:18
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/ht-mega-for-elementor/includes/class.assests.php(589): htmega_is_editing_mode()
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(324): HTMega_Elementor_Addons_Assests->enqueue_scripts()
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wordpress/wp-includes/script-loader.php(2263): do_action()
+#5 /var/www/html/wordpress/wp-includes/class-wp-customize-manager.php(462): wp_enqueue_scripts()
+#6 /var/www/html/wordpress/wp-includes/class-wp-customize-manager.php(561): WP_Customize_Manager->wp_die()
+#7 /var/www/html/wordpress/wp-includes/class-wp-hook.php(324): WP_Customize_Manager->setup_theme()
+#8 /var/www/html/wordpress/wp-includes/class-wp-hook.php(348): in /var/www/html/wordpress/wp-content/plugins/ht-mega-for-elementor/includes/helper-function.php on line 18
+[01-Nov-2024 03:07:06 UTC] AWP Login Notification: No phone number found for user msp
+[01-Nov-2024 03:07:10 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:07:20 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:08:27 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:08:46 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:11:00 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:11:02 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:11:25 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:17:48 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:24:58 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:25:07 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:25:25 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:25:45 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:28:41 UTC] Automatic updates starting...
+[01-Nov-2024 03:28:42 UTC]   Automatic plugin updates starting...
+[01-Nov-2024 03:28:42 UTC]   Automatic plugin updates complete.
+[01-Nov-2024 03:28:43 UTC] Automatic updates complete.
+[01-Nov-2024 03:42:22 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:43:16 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 03:44:18 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
+[01-Nov-2024 04:06:24 UTC] AWP Login Notification: No phone number found for user msp
+[01-Nov-2024 04:06:38 UTC] AWP Login Notification: No phone number found for user msp
+[01-Nov-2024 04:06:42 UTC] AWP Login Notification: No phone number found for user msp
+[01-Nov-2024 06:35:02 UTC] PHP Notice:  Undefined index: image in /var/www/html/wordpress/wp-content/plugins/et-core-plugin/app/models/widgets/recent-posts.php on line 133
+[01-Nov-2024 06:57:00 UTC] PHP Notice:  Undefined index: page in /var/www/html/wordpress/wp-content/plugins/automation-web-platform/class-awp-system-info.php on line 400
